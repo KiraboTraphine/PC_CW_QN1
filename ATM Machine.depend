@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724893825 source:c:\users\m\documents\atm machine\main.cpp
+	<iostream>
+	<string>
+	<map>
+
